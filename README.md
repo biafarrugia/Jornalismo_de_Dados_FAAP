@@ -1,4 +1,4 @@
-<b> Bem-vindo à disciplina de Jornalismo de Dados do curso de especialização "A Nova Era Informacional", da FAAP. </b>
+<b> Bem-vindo à disciplina de Jornalismo de Dados do curso de Pós-graduação em Jornalismo, Comunicação e a nova ordem informacional. </b>
 <br>
 <br> Nesse repositório, você encontrará os seguintes tutoriais e materiais: 
 <br> <i> 
