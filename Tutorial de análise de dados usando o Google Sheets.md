@@ -12,4 +12,5 @@ Para esse tutorial, usaremos o conjunto de dados disponibilizado pelo governo do
    <p> <b> a. Quantos casos de COVID-19 foram registrados em indígenas do Estado de São Paulo? </b>
 <p> Para responder a essa pergunta, precisaremos <b> SOMAR </b> os casos listados na planilha. Usaremos a função <b> SUM</b> para isso. Portanto, selecione a célula <b> D140 </b> (ou seja, o espaço em branco na intersecção da linha 140 com a coluna D, onde estão os números de casos de COVID-19). Dê dois cliques na célula em branco e insira o sinal de <b> = </b>, necessário para ativar as funções dentro do Google Sheets. Digite <b> =SUM(D2:D139) </b>. O D2:D:139 significa que é para somar tudo que estiver entre as linhas 2 e 139 da coluna D. Ao apertar ENTER, a célula D140 deverá exibir o resultado da soma, <b> 303</b>.
    
-  
+<p> <b> Bônus:</b>
+<p> Você não precisa se esforçar para memorizar todas as funções do Google Sheets. Existem centenas de tutoriais na web que você pode consultar toda vez que quiser realizar uma operação. Apenas busque por "como fazer algo XXX no Google Sheets" e veja como executar as funções.
